@@ -14,7 +14,7 @@ import android.widget.Toast;
 //--------------------------------------------------------------------------------------------
 //åªç›ínï\é¶ä÷òA
 
-//yoshida
+//yoshidaddd
 
 public class MainActivity extends FragmentActivity implements
 	ConnectionCallbacks,
