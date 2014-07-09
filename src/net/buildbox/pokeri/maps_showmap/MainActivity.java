@@ -1,20 +1,14 @@
 package net.buildbox.pokeri.maps_showmap;
 
-import android.location.Location;
-//--------------------------------------------------------------------------------------------
-import android.location.LocationListener;
-import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
-import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
-import android.widget.Spinner;
-import android.widget.Toast;
+//--------------------------------------------------------------------------------------------
 //--------------------------------------------------------------------------------------------
 //åªç›ínï\é¶ä÷òA
 
 //yoshidadddaaa
+
+//0709yoshida
 
 public class MainActivity extends FragmentActivity implements
 	ConnectionCallbacks,
