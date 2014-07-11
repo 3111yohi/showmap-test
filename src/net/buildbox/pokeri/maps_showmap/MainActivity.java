@@ -8,7 +8,7 @@ import android.support.v4.app.FragmentManager;
 
 //yoshidadddaaa
 
-//0709yoshida
+//0709yoshida0711
 
 public class MainActivity extends FragmentActivity implements
 	ConnectionCallbacks,
